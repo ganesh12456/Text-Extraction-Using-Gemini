@@ -1,5 +1,4 @@
 streamlit
 httpx
-base64
 dotenv
 google.generativeai
